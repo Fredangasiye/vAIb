@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p1",
+    "title": "Vibe Visualizer",
+    "summary": "An interactive audio-to-visual demo showing \u2018vibe coding\u2019 in action.",
+    "tags": [
+      "demo",
+      "visual"
+    ],
+    "thumbEmoji": "\ud83c\udf9b\ufe0f"
+  },
+  {
+    "id": "p2",
+    "title": "Chat Concierge",
+    "summary": "Smart conversational agent tailored for boutique retail experiences.",
+    "tags": [
+      "chat",
+      "agent"
+    ],
+    "thumbEmoji": "\ud83d\udcac"
+  },
+  {
+    "id": "p3",
+    "title": "Persona Painter",
+    "summary": "Generative portrait style transfer that adapts to brand voice.",
+    "tags": [
+      "generative",
+      "ml"
+    ],
+    "thumbEmoji": "\ud83c\udfa8"
+  }
+]

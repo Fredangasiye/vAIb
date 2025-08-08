@@ -1,0 +1,1 @@
+This folder is for static assets. You can replace with your images later.
