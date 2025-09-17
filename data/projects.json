@@ -2,44 +2,72 @@
   {
     "id": "p1",
     "title": "My Lobola Guide",
-    "summary": "AI-powered cultural guide for African lobola traditions with Uncle Wisdom AI assistant.",
+    "summary": "AI-powered cultural guide for African lobola traditions with Uncle Wisdom AI assistant. Features real-time AI guidance, cultural calculations, and multi-language support.",
     "tags": [
       "AI",
       "cultural",
-      "flagship"
+      "flagship",
+      "OpenRouter",
+      "Mistral"
     ],
-    "thumbEmoji": "\ud83d\udc4b\ud83c\udffd",
-    "url": "https://my-lobola-git-main-freds-projects-7c342310.vercel.app",
+    "thumbEmoji": "🐮",
+    "url": "https://my-lobola-working.vercel.app",
     "featured": true
   },
   {
     "id": "p2",
+    "title": "Scoutlify",
+    "summary": "Gamified football scouting platform for South Africa with YouTube integration and dark theme.",
+    "tags": [
+      "sports",
+      "gamification",
+      "flagship"
+    ],
+    "thumbEmoji": "⚽",
+    "url": "https://scoutlify-app.vercel.app",
+    "featured": true
+  },
+  {
+    "id": "p3",
+    "title": "FOUNDIT",
+    "summary": "Community platform for lost and found items, for sale, and services - connecting neighbors.",
+    "tags": [
+      "community",
+      "marketplace",
+      "social"
+    ],
+    "thumbEmoji": "🔍",
+    "url": "https://foundit-c4wgyd22n-freds-projects-7c342310.vercel.app",
+    "featured": false
+  },
+  {
+    "id": "p4",
     "title": "Vibe Visualizer",
-    "summary": "An interactive audio-to-visual demo showing \u2018vibe coding\u2019 in action.",
+    "summary": "An interactive audio-to-visual demo showing 'vibe coding' in action.",
     "tags": [
       "demo",
       "visual"
     ],
-    "thumbEmoji": "\ud83c\udf9b\ufe0f"
+    "thumbEmoji": "🎛️"
   },
   {
-    "id": "p3",
+    "id": "p5",
     "title": "Chat Concierge",
     "summary": "Smart conversational agent tailored for boutique retail experiences.",
     "tags": [
       "chat",
       "agent"
     ],
-    "thumbEmoji": "\ud83d\udcac"
+    "thumbEmoji": "💬"
   },
   {
-    "id": "p4",
+    "id": "p6",
     "title": "Persona Painter",
     "summary": "Generative portrait style transfer that adapts to brand voice.",
     "tags": [
       "generative",
       "ml"
     ],
-    "thumbEmoji": "\ud83c\udfa8"
+    "thumbEmoji": "🎨"
   }
 ]
