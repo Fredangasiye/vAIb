@@ -8,6 +8,7 @@ A modern, immersive AI portfolio and demo viewer featuring cutting-edge applicat
 ### 1. **My Lobola Guide** 🐮
 AI-powered cultural guide for African lobola traditions with Uncle Wisdom AI assistant.
 - **Live Demo**: [https://my-lobola-working.vercel.app](https://my-lobola-working.vercel.app)
+- **vAIb Website**: [https://vaib-ldpre897o-freds-projects-7c342310.vercel.app](https://vaib-ldpre897o-freds-projects-7c342310.vercel.app)
 - Traditional lobola calculations
 - **Real-time AI guidance** from Uncle Wisdom (OpenRouter + Mistral)
 - Cultural advice for Zulu, Xhosa, Pedi traditions
